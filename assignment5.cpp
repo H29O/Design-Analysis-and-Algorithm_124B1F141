@@ -15,7 +15,6 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    // ---------- Input with prompts ----------
     int S;
     cout << "Enter number of stages: ";
     cin >> S;
